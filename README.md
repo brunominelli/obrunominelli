@@ -1,6 +1,6 @@
 # Bruno Minelli | Desenvolvedor Web Frontend
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=obrunominelli&locale=pt-br&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=obrunominelli&locale=pt-br&count_private=true&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Desde a infância eu tenho contato constante com jogos digitais, RPG de mesa e tecnologia e minha curiosidade me fez descobrir cedo que sou autodidata. Logo nos primeiros anos de minha adolescência eu entrei no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) - Campus São João da Boa Vista e foi o período no qual eu descobrir minha paixão pode desenvolvimento de software.
 
