@@ -1,7 +1,5 @@
 # Bruno Minelli | Desenvolvedor de Software
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 Desde a infância eu tenho contato constante com jogos digitais, RPG de mesa e tecnologia e minha curiosidade me fez descobrir cedo que sou autodidata. Logo nos primeiros anos de minha adolescência eu entrei no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) - Campus São João da Boa Vista e foi o período no qual eu descobrir minha paixão pode desenvolvimento de software.
 
 Durante meu segundo ano de curso eu fiz um estágio em Análise e Desenvolvimento de Sistemas na GN1 Sistemas e Publicações Ltda., uma empresa que desenvolvia sistemas e diagramava publicações para associações e eventos da área de medicina.
